@@ -54,3 +54,8 @@
 
 - ✨ [Main ke Villa](https://www.youtube.com/watch?v=JT29-vG6Rs8&t=5s)
 - ✨ [Study Tour YOGYAKARTA](https://www.youtube.com/watch?v=LRolbBB8HEU&t=1096s)
+
+## 🎥 Design Grafis Sederhana
+<p align="center">
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/vlog%20x%20premiere.jpg?raw=true" alt="Profil Arvin" width="500"/>
+</p>
