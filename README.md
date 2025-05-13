@@ -22,6 +22,9 @@
 
 
 # Arvin PW - Portfolio Editing Video 🎬
+<p align="center">
+  <img src=" " alt="Profil Arvin" width="300"/>
+</p>
 
 ## 🎮 Mobile Legends Video
 - 📹 [Pengalamanku ngisi party an temen](https://youtu.be/ZN7_yPkQI_k?si=QHfmI7FwigffhA43)
