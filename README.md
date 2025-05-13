@@ -23,7 +23,7 @@
 
 # Arvin PW - Portfolio Editing Video 🎬
 <p align="center">
-  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/game%20x%20editing.jpg?raw=true" alt="Profil Arvin" width="800"/>
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/game%20x%20editing.jpg?raw=true" alt="Profil Arvin" width="500"/>
 </p>
 
 ## 🎮 Mobile Legends Video
@@ -49,7 +49,7 @@
 
 ## 🎥 Youtube VLOG
 <p align="center">
-  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/Youtube_logo.png?raw=true" alt="Profil Arvin" width="200"/>
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/vlog%20x%20premiere.jpg?raw=true" alt="Profil Arvin" width="500"/>
 </p>
 
 - ✨ [Main ke Villa](https://www.youtube.com/watch?v=JT29-vG6Rs8&t=5s)
