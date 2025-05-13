@@ -32,7 +32,7 @@
 
 ## 🎥 Tugas Kursus JayJay School Video Editor
 <p align="center">
-  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/jayjayshcool.png?raw=true" alt="Profil Arvin" width="300"/>
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/jayjayshcool.png?raw=true" alt="Profil Arvin" width="200"/>
 </p>
 
 - 🧠 [Gen Z susah cari kerja](https://www.instagram.com/p/DHL1djAodnc/)
@@ -48,5 +48,9 @@
 - ✨ [Bakso Difa View Reels 3](https://www.instagram.com/reel/DD77c3vzG83/)
 
 ## 🎥 Youtube VLOG
+<p align="center">
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/Youtube_logo.png?raw=true" alt="Profil Arvin" width="200"/>
+</p>
+
 - ✨ [Main ke Villa](https://www.youtube.com/watch?v=JT29-vG6Rs8&t=5s)
 - ✨ [Study Tour YOGYAKARTA](https://www.youtube.com/watch?v=LRolbBB8HEU&t=1096s)
