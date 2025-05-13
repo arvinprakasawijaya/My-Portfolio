@@ -64,8 +64,7 @@
   
   Disisi lain saya orangnya suka ngegame, game yang saya mainin itu Minecraft, Free Fire, dan Mobile Legends.<br>
   Dan gambar diatas itu ada foto profil server minecraft bajakan saya yang dulu sempet saya bikin.<br>
-  Lalu di sebelah kanan ada gambar thumbnail Youtube Minecraft, Free Fire, dan Mobile Legends yang pernah saya bikin.<br>
-  Namun video nya sudah saya private di Youtube karena saya anggap itu karya yang gagal saya buat.<br>
+  Lalu di sebelah kanan ada gambar thumbnail Youtube Minecraft, Free Fire, dan Mobile Legends yang pernah saya bikin. Namun video nya sudah saya private di Youtube karena saya anggap itu karya yang gagal saya buat.<br>
   
 </div>
 
