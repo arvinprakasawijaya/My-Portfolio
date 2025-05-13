@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arvinprakasawijaya/gambar-saya/blob/main/1F5A2005.JPG?raw=true" alt="Profil Arvin" width="300"/>
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/1F5A2005.JPG?raw=true" alt="Profil Arvin" width="300"/>
 </p>
 
 <div align="justify">
