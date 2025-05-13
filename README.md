@@ -31,6 +31,10 @@
 - 📹 [Pengalamanku main sama Mythic Immortal](https://youtu.be/1tGycmInu8U?si=znLaCgiSAJT9VqlL)
 
 ## 🎥 Tugas Kursus JayJay School Video Editor
+<p align="center">
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/jayjayshcool.png?raw=true" alt="Profil Arvin" width="300"/>
+</p>
+
 - 🧠 [Gen Z susah cari kerja](https://www.instagram.com/p/DHL1djAodnc/)
 - 🧠 [Pengalaman aku sebagai video editor](https://www.instagram.com/p/DIBm7XRIqeV/)
 
