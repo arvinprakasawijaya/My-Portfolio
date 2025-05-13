@@ -40,7 +40,7 @@
 
 ## 🖥 Freelance video editor WFH
 <p align="center">
-  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/bdv%20x%20capcut.jpg?raw=true" alt="Profil Arvin" width="300"/>
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/bdv%20x%20capcut.png?raw=true" alt="Profil Arvin" width="800"/>
 </p>
 
 - ✨ [Bakso Difa View Reels 1](https://www.instagram.com/reel/DFzIVUVSsNC/)
