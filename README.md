@@ -39,6 +39,10 @@
 - 🧠 [Pengalaman aku sebagai video editor](https://www.instagram.com/p/DIBm7XRIqeV/)
 
 ## 🖥 Freelance video editor WFH
+<p align="center">
+  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/bdv%20x%20capcut.jpg?raw=true" alt="Profil Arvin" width="300"/>
+</p>
+
 - ✨ [Bakso Difa View Reels 1](https://www.instagram.com/reel/DFzIVUVSsNC/)
 - ✨ [Bakso Difa View Reels 2](https://www.instagram.com/reel/DF3pPogT7XO/)
 - ✨ [Bakso Difa View Reels 3](https://www.instagram.com/reel/DD77c3vzG83/)
