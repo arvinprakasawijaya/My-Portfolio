@@ -35,8 +35,8 @@
   <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/jayjayshcool.png?raw=true" alt="Profil Arvin" width="200"/>
 </p>
 
-- 🧠 [Gen Z susah cari kerja](https://www.instagram.com/p/DHL1djAodnc/)
-- 🧠 [Pengalaman aku sebagai video editor](https://www.instagram.com/p/DIBm7XRIqeV/)
+- 🧠 [Gen Z susah cari kerja](https://www.instagram.com/p/DJouiwWor61/)
+- 🧠 [Pengalaman aku sebagai video editor](https://www.instagram.com/p/DJo0ERBobUB/)
 
 ## 🖥 Freelance video editor WFH
 <p align="center">
